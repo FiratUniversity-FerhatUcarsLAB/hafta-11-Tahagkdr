@@ -12,12 +12,18 @@ public class Exercise4_5 {
     public static void main(String[] args) {
         int bizz = 5;
         int buzz = 2;
+        
+       
         zoop("just for", bizz);
+        
+
+       
         clink(2 * buzz);
+    
     }
 
     public static void clink(int fork) {
-        System.out.print("It's ");
+        System.out.print("It's "); // Dikkat: println değil, print (alt satıra geçmez)
         zoop("breakfast ", fork);
     }
 

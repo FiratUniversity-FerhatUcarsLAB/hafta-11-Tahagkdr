@@ -12,10 +12,6 @@ public class Exercise4_4 {
 
         // 1) Donus degerini kullanmayin -> ne oluyor?
         getNumber();
-
-        // 2) void metodu ifade icinde kullanin -> ne oluyor?
-        // System.out.println(sayHello() + 7);
-
-        // Cevaplarinizi yorum olarak ekleyin.
+      
     }
 }
